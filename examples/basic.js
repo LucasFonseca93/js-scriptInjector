@@ -43,8 +43,8 @@ _scriptInjector.init(); // init the component
  * @type {Object}
  */
 var dirs = Object.freeze({
-    lib       : 'assets/js/lib',
-    model     : 'assets/js/model',
+    lib       : 'assets/js/lib'        ,
+    model     : 'assets/js/model'      ,
     controller: 'assets/js/controller'
 });
 
